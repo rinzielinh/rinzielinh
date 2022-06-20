@@ -11,6 +11,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=#000000" alt="NextJS logo" title="NextJS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -48,7 +50,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/rinzie.linh" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trinzie-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="rinzie-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/linh-nguyen-4900741bb" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="rinzie-linkedin" />
